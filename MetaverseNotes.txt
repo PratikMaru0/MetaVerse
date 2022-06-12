@@ -1,0 +1,27 @@
+**** Metaverse Course ****
+
+
+-> Contents 
+* What is three.js
+* Graphics creation 
+* ERC721 contract 
+* Metaverse (by combining Graphics creation + ERC721)
+
+
+=> What's Three.js ? 
+* Three.js is a cross-border JavaScript library and application programming interface (API) used to create and display animated  3D computer graphics in a web browser using WebGL.
+
+// Three.JS Documentation link :- https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+
+=> steps to use Web3JS 
+0). Create three.js , index.html , src folder , inside src folder create index.js files. 
+1). Copy three.js file and paste it in three.js file (Link :- https://threejs.org/build/three.js)
+2). Copy html file code given in link :- "https://threejs.org/docs/#manual/en/introduction/Creating-a-scene" inside index.html file. 
+3). inside index.html file please make necessary changes for eg :- change three.js path , link index.js file with proper path inside script tag. 
+4). Add this code :-   <script src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+5). Go to live server and run it. 
+
+=> Scene :- Background
+=> Camera :- In which angle we want to see Scene
+=> Render :- Display karana.
+
